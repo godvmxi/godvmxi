@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 About me
-```json
+```bash
 {
   name: "Ball Virtual"
   gender: "male",

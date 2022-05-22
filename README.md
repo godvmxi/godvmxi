@@ -10,6 +10,8 @@ About me
   address: "Shanghai",
   education: "Bachelor",
   github: "https://github.com/godvmxi",
+  blog: "https://vball.fun",
+  linkdin: "https://www.linkedin.com/in/godvmxi/",
   email: "godvmxi@gmail.com",
   description: "Better life, more challenging, more fun",
 

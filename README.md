@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 * 🇨🇦 Based in Burnaby, BC, Canada (Authorized to Work | Open to Relocation)[cite: 1].
-* 💼 10+ years of professional experience in multinational tech leaders including **Fortinet, Continental, AMD, Cisco, and Biren Technology**[cite: 1].
+* 💼 10+ years of professional experience in multinational technology leaders specializing in core systems and hardware.
 * 🚀 Specialize in **Embedded Firmware, Linux Kernel Drivers, Network Switch Architecture, Post-Quantum Cryptography (PQC), and Pre/Post-Silicon ASIC Bring-up**[cite: 1].
 
 ---
@@ -42,18 +42,18 @@
   <img src="https://img.shields.io/badge/GDB-4B6B94?style=flat-square&logo=gnu&logoColor=white" alt="GDB" />
 </p>
 
-* **Embedded & Firmware:** ARM Cortex-M/A, Secure Boot, TrustZone-M, QSPI Flash, UEFI BIOS development, STM / Nuvoton / NXP microcontrollers[cite: 1, 2].
-* **Cybersecurity:** Architected and implemented Post-Quantum Cryptography (PQC) secure systems on secure MCUs (e.g., M2354 / M3360)[cite: 1, 2].
-* **Networking & Switches:** Marvell CPSS, Broadcom switch solutions, Ethernet/PHY drivers, PCI/PCIe, TCP/IP, AUTOSAR (Tresos) network components[cite: 1, 2, 3].
-* **ASIC & Video Codecs:** Pre/Post-silicon chip bring-up, RTL/FPGA verification, H.264 / HEVC / VP9 / AV1 video pipelines[cite: 2, 3].
+- *Embedded & Firmware:* ARM Cortex-M/A, Secure Boot, TrustZone-M, QSPI Flash, UEFI BIOS development, STM / Nuvoton / NXP microcontrollers[cite: 1, 2].
+- *Cybersecurity:* Architected and implemented Post-Quantum Cryptography (PQC) secure systems on secure MCUs (e.g., M2354 / M3360)[cite: 1, 2].
+- *Networking & Switches:* Marvell CPSS, Broadcom switch solutions, Ethernet/PHY drivers, PCI/PCIe, TCP/IP, AUTOSAR (Tresos) network components[cite: 1, 2, 3].
+- *ASIC & Video Codecs:* Pre/Post-silicon chip bring-up, RTL/FPGA verification, H.264 / HEVC / VP9 / AV1 video pipelines[cite: 2, 3].
 
 ---
 
-## 📈 Experience Highlights
+## 📈 Professional Highlights
 
-* **Fortinet** (2024 – Present): Senior Firmware Design Developer[cite: 2] — Developing UEFI BIOS, NIC drivers (Intel X7XX, E610, E8XX), network switch support, DiagOS, and PQC secure system firmware[cite: 2].
-* **Continental Automotive** (2022 – 2024): Senior Software Engineer[cite: 2] — Delivered Ethernet and video solutions on QNX, AUTOSAR, and NXP/Qualcomm/Marvell platforms for automotive tier-1 features (BMW, Ximiao)[cite: 2, 3].
-* **Biren Technology & AMD** (2018 – 2022): Chip Architecture / Senior Firmware Engineer[cite: 2, 3] — Defined test strategies and implemented verification firmware/CI pipelines for hardware video codecs during pre-silicon and post-silicon phases[cite: 2, 3].
+- **Senior Firmware Design Developer** (2024 – Present): Leading UEFI BIOS development, high-speed NIC drivers, network switch support, DiagOS, and PQC secure system firmware[cite: 2].
+- **Senior Software Engineer** (2022 – 2024): Delivered Ethernet and video solutions on QNX, AUTOSAR, and advanced automotive SoC platforms for tier-1 automotive features[cite: 2, 3].
+- **Chip Architecture & Senior Firmware Engineer** (2018 – 2022): Defined test strategies and implemented verification firmware/CI pipelines for hardware video codecs during pre-silicon and post-silicon phases[cite: 2, 3].
 
 ---
 
